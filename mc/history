@@ -1,0 +1,57 @@
+[input-def]
+0=*
+
+[mc.esc.timeout]
+0=1000000
+
+[inp:ftplink_cmd: FTP to machine ]
+0=ftp://ph@192.168.1.102:2121
+
+[:select_cmd: Select ]
+0=
+
+[inp:sftplink_cmd: SFTP to machine ]
+0=sftp://ph@192.168.1.101:8022/
+1=ftp://ph@192.168.1.101:8022/
+
+[inpmc.fm.mkdir]
+0=Lock
+1=Pictures
+2=zathura
+3=DosBox
+
+[input2]
+0=/home/van2zeer/.config/i3/config
+1=/ftp://ph@192.168.1.102:2121/
+2=/home/van2zeer/Wallpapers/Lock/
+3=/home/van2zeer/Pictures
+4=/home/van2zeer/.config/zathura/zathurarc
+5=/home/van2zeer/DosBox/Doom
+6=/home/van2zeer/.dosbox
+7=/usr/share/ppd/HP/ink_tank_wireless_410_series.ppd
+
+[cmdline]
+0=q
+1=
+
+[Dir Hist New Right Panel]
+0=/ftp://ph@192.168.1.102:2121/
+1=/home/van2zeer
+2=/home/van2zeer/Downloads/ds
+
+[Dir Hist New Left Panel]
+0=/home/van2zeer/.password-store
+1=/home/van2zeer/Pictures/Wallpapers
+2=/home/van2zeer/Pictures
+3=/home
+4=/
+5=/usr
+6=/usr/share
+7=/usr/share/ppd
+8=/usr/share/ppd/HP
+9=/home/van2zeer/Gayometry/.git/hooks
+10=/home/van2zeer/Gayometry/.git
+11=/home/van2zeer/Gayometry/img
+12=/home/van2zeer/Gayometry
+13=/home/van2zeer
+14=/home/van2zeer/Downloads/ds

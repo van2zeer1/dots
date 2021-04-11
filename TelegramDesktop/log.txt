@@ -1,0 +1,49 @@
+[2021.04.11 19:16:07] Launched version: 2007001, install beta: [FALSE], alpha: 0, debug mode: [FALSE]
+[2021.04.11 19:16:07] Executable dir: /usr/bin/, name: telegram-desktop
+[2021.04.11 19:16:07] Initial working dir: /home/van2zeer/
+[2021.04.11 19:16:07] Working dir: /home/van2zeer/.local/share/TelegramDesktop/
+[2021.04.11 19:16:07] Command line: telegram-desktop
+[2021.04.11 19:16:07] Executable path before check: /usr/bin/telegram-desktop
+[2021.04.11 19:16:07] Logs started
+[2021.04.11 19:16:07] Launcher filename: org.telegram.desktop.desktop.desktop
+[2021.04.11 19:16:07] Connecting local socket to /run/user/1000/1e98a8a805a72199b8fd34c4596d361a-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2021.04.11 19:16:07] This is the only instance of Telegram, starting server and app...
+[2021.04.11 19:16:07] Moved logging from '/home/van2zeer/.local/share/TelegramDesktop/log_start0.txt' to '/home/van2zeer/.local/share/TelegramDesktop/log.txt'!
+[2021.04.11 19:16:07] Primary screen DPI: 96
+[2021.04.11 19:16:07] App Info: reading settings...
+[2021.04.11 19:16:07] App Info: reading encrypted settings...
+[2021.04.11 19:16:07] Lang Info: Loaded cached, keys: 3112
+[2021.04.11 19:16:07] OpenAL Logging Level: (not set)
+[2021.04.11 19:16:07] Audio Playback Devices: Family 17h (Models 00h-0fh) HD Audio Controller Analog Stereo
+[2021.04.11 19:16:07] Audio Playback Default Device: Family 17h (Models 00h-0fh) HD Audio Controller Analog Stereo
+[2021.04.11 19:16:07] Audio Capture Devices: Family 17h (Models 00h-0fh) HD Audio Controller Analog Stereo;Monitor of Family 17h (Models 00h-0fh) HD Audio Controller Analog Stereo
+[2021.04.11 19:16:07] Audio Capture Default Device: Family 17h (Models 00h-0fh) HD Audio Controller Analog Stereo
+[2021.04.11 19:16:07] Not using D-Bus global menu.
+[2021.04.11 19:16:07] Not using Unity launcher counter.
+[2021.04.11 19:16:07] System tray available: [FALSE]
+[2021.04.11 19:16:07] App Info: reading accounts info...
+[2021.04.11 19:16:07] App Info: reading encrypted info...
+[2021.04.11 19:16:07] App Info: reading map...
+[2021.04.11 19:16:07] App Info: reading encrypted map...
+[2021.04.11 19:16:07] App Info: reading encrypted user settings...
+[2021.04.11 19:16:07] App Info: encrypted user settings read.
+[2021.04.11 19:16:07] App Info: reading encrypted mtp data...
+[2021.04.11 19:16:07] MTP Info: read keys, current: 3, to destroy: 0
+[2021.04.11 19:16:07] Map read time: 5
+[2021.04.11 19:16:07] App Info: reading encrypted mtp config...
+[2021.04.11 19:16:07] TCP Error: network - Network unreachable
+[2021.04.11 19:16:07] HTTP Error: network error 99 - Network unreachable
+[2021.04.11 19:16:07] Export Info: Destroy top bar by controller removal.
+[2021.04.11 19:16:08] API Warning: not loaded minimal channel applied.
+[2021.04.11 19:20:24] TCP Error: network - Network unreachable
+[2021.04.11 19:20:24] HTTP Error: network error 99 - Network unreachable
+[2021.04.11 19:20:58] TCP Error: network - Network unreachable
+[2021.04.11 19:20:58] HTTP Error: network error 99 - Network unreachable
+[2021.04.11 19:23:41] TCP Error: network - Network unreachable
+[2021.04.11 19:23:41] HTTP Error: network error 99 - Network unreachable
+[2021.04.11 19:24:15] TCP Error: network - Network unreachable
+[2021.04.11 19:24:15] HTTP Error: network error 99 - Network unreachable
+[2021.04.11 19:25:54] TCP Error: network - Network unreachable
+[2021.04.11 19:25:54] HTTP Error: network error 99 - Network unreachable
+[2021.04.11 19:27:02] TCP Error: network - Network unreachable
+[2021.04.11 19:27:02] HTTP Error: network error 99 - Network unreachable
